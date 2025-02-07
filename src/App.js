@@ -79,7 +79,6 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Passcode App</h1>
 
       <div className="CalcContainer">
         <div className="DispContainer">
